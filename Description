@@ -1,0 +1,12 @@
+Package: CO2Emissions
+Type: Package
+Title: Analyzing Factors Associated with Global CO2 Emissions (1990-2018)
+Version: 0.01
+Authors: Zhong Zheng
+Maintainer: 3zzheng@gmail.com
+Description: Users can analyze the global trend of CO2 Emissions and its associating factors including GDP per capita, 
+              Foreign direct investment, and percentage of urban population using panel regression after converting wide 
+              data into long data as well as conducting a skewness check.
+Depends: R (>= 3.1.2)
+License: CC0
+LazyData: True

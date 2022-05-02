@@ -5,8 +5,9 @@ Version: 0.01
 Authors: Zhong Zheng
 Maintainer: 3zzheng@gmail.com
 Description: Users can analyze the global trend of CO2 Emissions and its associating factors including GDP per capita, 
-              Foreign direct investment, and percentage of urban population using panel regression after converting wide 
-              data into long data as well as conducting a skewness check.
+              foreign direct investment (FDI), and percentage of urban population using fixed-effects panel regression after 
+              converting wide data into long data as well as conducting a skewness check. Data are downloaded from the World Bank
+              (https://data.worldbank.org).
 Depends: R (>= 3.1.2)
 License: CC0
 LazyData: True
